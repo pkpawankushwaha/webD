@@ -1,2 +1,17 @@
 # JavaScript
-JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.
+JavaScript developed in year 1995 by Brandan Eich, is a powerful client side, cross-platform and object-oriented scripting language to make interactive webpages.
+
+## Software requirement & Installation
+Being a scripting language, it doesnot run on it's own. Web browser is responsible for running the JS scripts.
+You just need an editor to code and a browser to run.
+
+- Editor
+  - [VSCode](https://code.visualstudio.com/download)
+  - [Sublime Text](https://www.sublimetext.com/3)
+  
+- Web Browser
+  - Google chrome
+  - Mozilla Firefox
+  
+## Content for JavaScript
+- [JavaScript Basics]()
