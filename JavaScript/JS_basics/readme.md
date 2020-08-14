@@ -37,10 +37,25 @@ Javascript can also be written in external file and saved as **.js** extension a
 	- JS uses the **Unicode** character set, i.e. it covers all the characters, punctuations, and symbols.
 	- JS programs consists of statements and each JS statements are composed of ** values, operators, expressions, keywords, and comments **
 	- Each statement is separated by a semicolon
-	- 
 	- // is used to comment single line
 	- /* ... */ is used to comment multiple lines
-	- 
+	- JS values are of two types : 
+		1. Literal :
+
+			These can numbers(with or without zero) or string(string is combination of one or more characters)
+		
+		2. Variable :
+
+			These are named memory location used to store the value. Variable names are to be unique.
+
+			Variable names are called identifiers and for naming variables there are certain rules to be followed:
+			- Names can contain letters, digits, underscores, and dollar signs.
+			- Names must begin with a letter
+			- Names can also begin with $ and _ (but we will not use it in this tutorial)
+			- Names are case sensitive (y and Y are different variables)
+			- Reserved words (like JavaScript keywords) cannot be used as names
+
+
 
 
 
