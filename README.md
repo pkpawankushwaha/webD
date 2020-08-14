@@ -5,4 +5,3 @@ This repo is created to help one learn and revise web development technology qui
 - [JavaScript](/javascript)
   - [Javascript Basics]()
   - [Javascript AJAX]()
-  - [Javascript API]()
