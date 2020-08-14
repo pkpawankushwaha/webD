@@ -26,6 +26,7 @@ JavaScript can also be included in html code using the following syntax:
 This script can be included in either in head tag or body tag of html.
 
 Javascript can also be written in external file and saved as **.js** extension and included in html using the syntax :
+
 	```
 		<script src="link of the js file">
 		</script>
