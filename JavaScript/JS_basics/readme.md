@@ -33,11 +33,11 @@ Javascript can also be written in external file and saved as **.js** extension a
 ```
 
 ## Few facts about JS programs:
-	- JS is case sensitive ,i.e.  lowercase and uppercase letters are treated differently
-	- JS uses the **Unicode** character set, i.e. it covers all the characters, punctuations, and symbols.
-	- JS programs consists of statements and each JS statements are composed of ** values, operators, expressions, keywords, and comments **
-	- Each statement is separated by a semicolon
-	- // is used to comment single line
+- JS is case sensitive ,i.e.  lowercase and uppercase letters are treated differently
+- JS uses the **Unicode** character set, i.e. it covers all the characters, punctuations, and symbols.
+- JS programs consists of statements and each JS statements are composed of ** values, operators, expressions, keywords, and comments **
+- Each statement is separated by a semicolon
+- // is used to comment single line
 	- /* ... */ is used to comment multiple lines
 	- JS values are of two types : 
 		1. Literal :
@@ -54,6 +54,7 @@ Javascript can also be written in external file and saved as **.js** extension a
 			- Names can also begin with $ and _ (but we will not use it in this tutorial)
 			- Names are case sensitive (y and Y are different variables)
 			- Reserved words (like JavaScript keywords) cannot be used as names
+
 
 
 
