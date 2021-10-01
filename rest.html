@@ -1,0 +1,30 @@
+<body>
+    <script>
+        console.log("REST Operator:- Notation: ...")// Used when number of parameters are not known of a function
+        // Takes all the remaining parameters in array
+        let fun=(a,b,...z)=>{
+            console.log("Fruits:",a,b,z) //SyntaxError: Rest parameter must be last formal parameter
+        }
+        function test(){
+            console.log('test')
+        }
+        fun('Apple','Banana', 'Orange', 'Guava', 'Grapes',test)
+
+        // Promise executes when our code complete its execution
+        // i.e. done after some action
+        // A Promise is a JavaScript object that links producing code and consuming code
+        let a=undefined; // undefined is a data type
+
+        let promise = new Promise((resolve, reject)=>{
+            // 'Producing Code'
+            setTimeout(() => {
+            a="Hello Promise"
+            resolve('done')
+        }, 2000);
+        })
+        // 'Consuming Code'
+        .then(()=>{
+            alert(a)
+        })
+    </script>
+</body>
